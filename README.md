@@ -18,3 +18,7 @@ https://niels.nu/blog/2017/spring-boot-aop.html
 https://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html
 
 https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/
+
+https://dev.mysql.com/doc/connector-j/5.1/en/connector-j-reference-type-conversions.html
+
+https://dev.mysql.com/doc/refman/5.7/en/json.html
